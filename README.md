@@ -1,4 +1,4 @@
-##  Eventos Tech 2025 - Seu guia para os melhores eventos de tecnologia! 
+##  Eventos Tech 2025 - Seu guia para os melhores eventos de tecnologia! - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
