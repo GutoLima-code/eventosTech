@@ -1,4 +1,4 @@
-##  Eventos Tech 2025 - Seu guia para os melhores eventos de tecnologia! - Imersão Dev com Google Gemini
+##  Eventos Tech 2025 - Seu guia para os melhores eventos de tecnologia! - Imersão Dev com Google Gemini https://eventos-tech.vercel.app/
 
 **O que faz essa aplicação?**
 
